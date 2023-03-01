@@ -5,18 +5,6 @@
       "username": "admin",
       "password": "admin123",
       "role": "Admin"
-    },
-    {
-      "id": 2,
-      "username": "manager",
-      "password": "manager123",
-      "role": "Manager"
-    },
-    {
-      "id": 3,
-      "username": "developer",
-      "password": "developer123",
-      "role": "Developer"
     }
   ],
   "projects": [],
